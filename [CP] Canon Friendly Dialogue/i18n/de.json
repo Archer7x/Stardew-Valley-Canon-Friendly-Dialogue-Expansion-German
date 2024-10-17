@@ -199,14 +199,14 @@
   "CFE_Abigail_Sat2": "Ugh, so much homework to do this weekend.$s#$e#I've still got a few hours before the procrastination becomes risky, though.",
 
   //generic weekday dialogue
-  "CFE_Abigail_springThu": "Ugh... I'm not in a good mood right now.$s#$e#I said I'm not in a good mood... what do you want?$a",
+  "CFE_Abigail_springThu": "Ugh... Ich bin gerade nicht in guter Stimmung.$s#$e#Ich sagte, ich bin nicht gut drauf... was willst du?$a",
 
   //Abigail's Married Dialogue
   //weather specific dialogue
-  "CFE_Abigail_Married_RainyDay_1": "I think I'll bust out my good ol' sketchbook today. I've got some ideas for mythical beasts that could be fun.",
-  "CFE_Abigail_Married_RainyDay_2": "The dark... the rain... it gets me excited.$l",
-  "CFE_Abigail_Married_RainyDay_3": "Hey, remember when we played that duet by the lake? This weather reminds me of that day.#$e#Do you still carry around that mini harp? That one kind of surprised me. Where'd you learn to play, anyway?",
-  "CFE_Abigail_Married_RainyDay_4": "I've been practicing on my flute. Today is a good day for it.#$e#You really surprised me with that mini-harp that one time... I never expected that.#$b#I guess that's why I like you so much.$l",
+  "CFE_Abigail_Married_RainyDay_1": "Ich glaube, ich krame heute mein gutes altes Skizzenbuch hervor. Ich habe ein paar Ideen für Fabelwesen, die lustig sein könnten.",
+  "CFE_Abigail_Married_RainyDay_2": "Die Dunkelheit... der Regen... das begeistert mich.$l",
+  "CFE_Abigail_Married_RainyDay_3": "Hey, weißt du noch, wie wir am See dieses Duett gespielt haben? Dieses Wetter erinnert mich an diesen Tag.#$e#Du trägst immer noch diese Mini-Harfe mit dir herum? Das hat mich irgendwie überrascht. Wo hast du eigentlich gelernt zu spielen?",
+  "CFE_Abigail_Married_RainyDay_4": "Ich habe auf meiner Flöte geübt. Heute ist ein guter Tag dafür.#$e#Du hast mich mit der Mini-Harfe wirklich überrascht... Das hätte ich nie erwartet.#$b#Ich glaube, deshalb mag ich dich so sehr.$l",
   "CFE_Abigail_Married_RainyDay_5": "Hey! I woke up early and did some exploring on my own. I found this and it reminded me of you. [768 767 769 66 82]#$e#Where'd I find it at this ungodly early hour? Ooh, wouldn't YOU like to know?$h",
   "CFE_Abigail_Married_RainyDay_6": "Night-time exploration is the best. Take a gander at what I discovered. [768 767 769 66 82]#$e#Think you can find something better than that? I'm not so sure!$h",
   "CFE_Abigail_Married_RainyDay_7": "Hehe, I did some sword training in the rainy darkness. You've gotta admit, your wife is pretty epic.$h",
@@ -1000,11 +1000,11 @@
   "CFE_Dwarf_Sun2": "I am willing to try human cuisine, yes. Why don't you bring some by?",
 
   //generic weekday dialogue
-  "CFE_Dwarf_winterSun": "Ah, yes. It's true that there's a shrine of death near here. Some humans must have tunneled straight into it some time ago.#$e#I can't say exactly where it came from. Certainly not my people. And the shadow people have also denied it.#$e#Have you been there?",
+  "CFE_Dwarf_winterSun": "Ah, ja. Es ist wahr, dass es hier in der Nähe einen Schrein des Todes gibt. Irgendwelche Menschen müssen vor einiger Zeit direkt in ihn hineingetunnelt sein.#$e#Ich kann nicht genau sagen, woher er kam. Sicherlich nicht von meinem Volk. Und das Schattenvolk hat es auch geleugnet.#$e#Warst du schon dort?",
 
-  "CFE_Dwarf_Mon": "Welcome to my shop.",
-  "CFE_Dwarf_Tue": "I know that you are new to my language. Please, ask me to repeat anything you hear me say.",
-  "CFE_Dwarf_Sun": "Care to buy anything today?",
+  "CFE_Dwarf_Mon": "Willkommen in meinem Laden.",
+  "CFE_Dwarf_Tue": "Ich weiß, dass meine Sprache für dich neu ist. Du kannst mich immer bitten, alles zu wiederholen, was du nicht verstehst.c",
+  "CFE_Dwarf_Sun": "Möchtest du heute etwas kaufen?",
 
   //Elliott
   //Elliott Gift Tastes
@@ -1675,24 +1675,24 @@
 
   //Gus's Misc Dialogue
   //these lines target files other than the standard characters/dialogue/Gus location such as unmarried rainy dialogue
-  "CFE_Gus_rainy_1": "There's nothing like a glass of dry red wine on a day like this, huh?#$e#Hehehe, I love my job.",
-  "CFE_Gus_rainy_1.DSV.TurkishGus": "There's nothing like a bowl of hot tarhana soup on a day like this, huh?#$e#Hehehe, I love my job.",
-  "CFE_Gus_rainy_2": "Need something to warm you up tonight? Don't be shy!",
-  "CFE_Gus_rainy_3": "Seen anyone around town who needs a little pick-me-up? Send 'em to me!",
+  "CFE_Gus_rainy_1": "Es geht doch nichts über ein Glas trockenen Rotwein an einem Tag wie diesem, oder?#$e#Hehehe, ich liebe meinen Job.",
+  "CFE_Gus_rainy_1.DSV.TurkishGus": "Es geht doch nichts über eine heiße Tarhana-Suppe an einem Tag wie diesem, oder?#$e#Hehehe, ich liebe meinen Job.",
+  "CFE_Gus_rainy_2": "Brauchst du etwas, um dich heute Abend aufzuwärmen? Nur keine Scheu!",
+  "CFE_Gus_rainy_3": "Hast du jemanden in der Stadt gesehen, der eine kleine Aufmunterung braucht? Schick ihn zu mir!",
 
   //Gus's Standard Dialogue
   //Special Dialogue
   //no repeated dialogue
 
   //date specific dialogue
-  "CFE_Gus_spring1y2": "I hope you were able to get up on time today! How's the start of the new year for you so far?$h",
-  "CFE_Gus_spring12": "Boy howdy! I've been staying up late the past few nights, getting ready for the egg festival!#$e#Just wait till you see what I've prepared.",
-  "CFE_Gus_summer10": "I've got some good dishes prepped for the luau tomorrow, but I try to steer clear of the communal soup.#$e#It's really a hit-and-miss tradition, and I'd rather play it safe when it comes to my reputation.$s",
-  "CFE_Gus_fall15": "Gonna be at the fair tomorrow? Look for me up north. I'll be making burgers all day.",
-  "CFE_Gus_fall26": "There's some pretty spooky stuff at the Spirit's Eve festival. Me? I'll just stick with hosting the buffet.",
-  "CFE_Gus_winter24": "What's a good festival without some good food? *chuckle* I've saved all my best recipes for this feast, so don't go missin' it!$h",
-  "CFE_Gus_winter28": "Happy new year, @! I'm breaking out the good stuff tonight! [348]$h#$e#Cheers to a great year in Stardew Valley. May the next year be even better!",
-  "CFE_Gus_winter28.DSV.TurkishGus": "Happy new year, @! I'm breaking out the good coffee beans tonight! [253]$h#$e#Cheers to a great year in Stardew Valley. May the next year be even better!",
+  "CFE_Gus_spring1y2": "Ich hoffe, du konntest heute pünktlich aufstehen! Wie ist der Start ins neue Jahr für dich bis jetzt verlaufen?$h",
+  "CFE_Gus_spring12": "Howdy, Junge! Ich bin in den letzten Nächten lange aufgeblieben, um mich auf das Eierfest vorzubereiten!#$e#Warte nur, bis du siehst, was ich vorbereitet habe.",
+  "CFE_Gus_summer10": "Ich habe ein paar gute Rezepte für das morgige Luau vorbereitet, aber ich versuche, die Gemeinschaftssuppe zu meiden.#$e#Es ist wirklich eine Tradition, bei der man auf die Nase fallen kann, und ich gehe lieber auf Nummer sicher, wenn es um meinen Ruf geht.$s",
+  "CFE_Gus_fall15": "Wirst du morgen auf der Messe sein? Such nach mir im Norden. Ich werde den ganzen Tag Burger machen.",
+  "CFE_Gus_fall26": "Auf dem Geisterabendfest gibt es ein paar ziemlich gruselige Sachen. Ich bleibe einfach bei der Bewirtung des Buffets.",
+  "CFE_Gus_winter24": "Was wäre ein gutes Festival ohne gutes Essen? *lach* Ich habe meine besten Rezepte für dieses Fest aufgehoben, also verpass sie nicht!$h",
+  "CFE_Gus_winter28": "Frohes neues Jahr, @! Ich hole heute Abend den guten Stoff heraus! [348]$h#$e#Prost auf ein tolles Jahr in Stardew Valley. Möge das nächste Jahr noch besser werden!",
+  "CFE_Gus_winter28.DSV.TurkishGus": "Frohes neues Jahr, @! Ich hole heute Abend die guten Kaffeebohnen heraus! [253]$h#$e#Prost auf ein tolles Jahr in Stardew Valley. Möge das nächste Jahr noch besser werden!",
 
   //heart specific dialogue
   "CFE_Gus_summerMon10": "I was in Zuzu City a while back, and I've gotta hand it to those food truck vendors. They've got some real skills!#$e#They've got tacos, curries, burgers, just about anything you could wish for!#$b#Of course, you know me, I like to eat a little of everything, just like how I like to make a little of everything!$h",
