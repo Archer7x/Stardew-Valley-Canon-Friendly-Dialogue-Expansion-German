@@ -4,3 +4,5 @@
 
 - [Canon-Friendly Dialogue Expansion](https://www.nexusmods.com/stardewvalley/mods/2544)
 
+# Version 0.0.2
+(Work in progress!)
