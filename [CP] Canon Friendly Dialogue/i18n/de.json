@@ -328,7 +328,7 @@
   "CFE_Alex_PrismaticShard": "Das ist das Beste! Ich weiß nicht warum, aber wenn ich das Ding in der Hand halte, fühlt es sich an, als würde ich eine Meisterschaftstrophäe halten!$h",
   "CFE_Alex_RabbitsFoot": "Toll! Mein Lieblings-Gridball-Spieler tippt immer dreimal auf eines dieser Dinger, bevor er auf das Spielfeld geht. Ich denke, ich werde das auch tun.",
   "CFE_Alex_CompleteBreakfast": "Whoa, hoh-ho! Kohlenhydrate, Eiweiß, alles drin! $h#$b#Ich habe schon gefrühstückt, aber warum nicht noch eins?",
-  "CFE_Alex_SalmonDinner": "Mmm! *chomp* This is delicious! *gulp*$10#$b#Uhm... I mean, thank you very much! You're a good cook!",
+  "CFE_Alex_SalmonDinner": "Mmm! *mampf* Das ist köstlich! *schluck*$10#$b#Uhm... Ich meine, ich danke dir sehr! Du bist ein guter Koch!",
 
   //Alex's Misc Dialogue
   //these lines target files other than the standard characters/dialogue/Alex location such as unmarried rainy dialogue
@@ -466,7 +466,7 @@
   "CFE_Alex_Sun6": "Hey, come by my place any afternoon you want and we can work out together.#$e#It's really a lot more fun to work out with friends.$h",
 
   //generic weekday dialogue
-  "CFE_Alex_summerSuninlawHaley": "Oh, hey. How's the married life coming along?$9",
+  "CFE_Alex_summerSuninlawHaley": "Oh, hey. Wie läuft es mit dem Familienleben?$9",
   "CFE_Alex_summerSun": "Haley's pretty hot, don't you think?#$e#It really sucks that there aren't more hot girls in Pelican Town.^Maybe you oughta hang out with her.",
   "CFE_Alex_summerSun_GN": "Haley's pretty hot, don't you think?",
   "CFE_Alex_fallTue": "Isn't it sad how some people just don't ever reach their full potential?#$e#The important thing is just to keep fighting, no matter what.",
@@ -716,13 +716,13 @@
   "CFE_Caroline_Sun2.DSV.ReligionEdits": "Feel free to pray at the community altar if you'd like. It's intended for anyone who would find peace there, no matter their religion.#$e#No, it's not really my thing. I appreciate that it's there for the people who need it, though.",
 
   //generic weekday dialogue
-  "CFE_Caroline_summerMon": "Do you grow any flowers on your farm this time of year?",
-  "CFE_Caroline_summerThu": "I've been seeing wild fruits in the forest lately.#$e#Foraging can be a fun way to earn some cash. Or you can use what you find as gifts or food.",
-  "CFE_Caroline_fallThu": "Are you doing any foraging this season? I've seen edible mushrooms in the forest.#$e#I should probably mention that I'm not a big fan of them, though.",
-  "CFE_Caroline_winterThu": "Winter is harsh, but you can dig up some roots if you're lucky.#$e#Foraging can be a fun way to earn some cash. Or you can use what you find as gifts or food.",
+  "CFE_Caroline_summerMon": "Pflanzt du in dieser Jahreszeit Blumen auf deinem Hof?",
+  "CFE_Caroline_summerThu": "Ich habe in letzter Zeit wilde Früchte im Wald gesehen.#$e#Sammeln kann eine lustige Art sein, etwas Geld zu verdienen. Oder du kannst das, was du findest, als Geschenke oder Lebensmittel verwenden.",
+  "CFE_Caroline_fallThu": "Bist du in dieser Jahreszeit auf Nahrungssuche? Ich habe essbare Pilze im Wald gesehen.#$e#Ich sollte vielleicht erwähnen, dass ich kein großer Fan von den Dingern bin.",
+  "CFE_Caroline_winterThu": "Der Winter ist hart, aber wenn man Glück hat, kann man ein paar Wurzeln ausgraben.#$e#Sammeln kann eine lustige Art sein, etwas Geld zu verdienen. Oder Sie können das, was Sie finden, als Geschenke oder Lebensmittel verwenden.",
 
-  "CFE_Caroline_Tue": "On Wednesdays the shop is closed.#$e#Keep that in mind if you're going to need anything.",
-  "CFE_Caroline_Sat": "I host an aerobics class on Tuesdays in our living room. You can come if you'd like.",
+  "CFE_Caroline_Tue": "Mittwochs ist der Laden geschlossen.#$e#Behalte das im Hinterkopf, wenn du etwas brauchst.",
+  "CFE_Caroline_Sat": "Ich gebe dienstags in unserem Wohnzimmer einen Aerobic-Kurs. Du kannst gerne kommen, wenn du magst.",
 
   //Clint
   //Clint Gift Tastes
@@ -813,14 +813,14 @@
   "CFE_Clint_Sun2": "Hey, if you've got geodes, make sure you don't sell 'em. Bring 'em to me and I'll help you crack 'em open.",
 
   //generic weekday dialogue
-  "CFE_Clint_summerThuinlawEmily": "...$s#$e#...What? Oh...#$e#...I think you know what.$s#$e#What do you need?",
-  "CFE_Clint_fallMoninlawEmily": "How are you and Emily?#$e#Oh, that's great!#$e#I'm glad for you two. Really, I am.",
-  "CFE_Clint_fallMon": "Looks like the Tunnelers had a good game last night.#$e#Cheroky's speed is really what drives the team.",
-  "CFE_Clint_fallThu": "Got anything good growing on your farm right now?",
-  "CFE_Clint_winterSuninlawEmily": "I'm not in the mood to chat today.$s#$e#Just get the hell out of here!$3#$e#Sorry I... that was...$4#$b#I'm sorry. What do you need?$s",
+  "CFE_Clint_summerThuinlawEmily": "...$s#$e#...Was? Oh...#$e#...Ich glaube, du weißt was.$s#$e#Was brauchst du?",
+  "CFE_Clint_fallMoninlawEmily": "Wie geht es dir und Emily?#$e#Oh, das ist großartig!#$e#Ich freue mich für dich. Wirklich, das tue ich.",
+  "CFE_Clint_fallMon": "Sieht aus, als hätten die Tunnelbauer gestern Abend ein gutes Spiel gehabt.#$e#Cherokys Geschwindigkeit ist der eigentliche Motor des Teams.",
+  "CFE_Clint_fallThu": "Hast du irgendetwas Gutes, das gerade auf deinem Hof wächst?",
+  "CFE_Clint_winterSuninlawEmily": "Ich bin heute nicht in der Stimmung, zu plaudern.$s#$e#Verschwinde einfach!$3#$e#Entschuldigung, ich... das war...$4#$b#Es tut mir leid. Was brauchst du?$s",
 
-  "CFE_Clint_MoninlawEmily": "So uh... how's uh... how's Emily?$s",
-  "CFE_Clint_Thu": "You inherited a pretty basic toolset, huh? Yeah, let me know how I can help with that.",
+  "CFE_Clint_MoninlawEmily": "Also, äh... Wie geht's... hWie geht es Emily?$s",
+  "CFE_Clint_Thu": "Du hast ein ziemlich einfaches Equipment geerbt, hm? Lass mich wissen, wie ich dir damit helfen kann.",
 
   //Demetrius
   //Demetrius Gift Tastes
@@ -904,17 +904,17 @@
   "CFE_Demetrius_Sun4": "My work basically is my hobby. Occasionally, though, I'll cook a meal, too.",
 
   //generic weekday dialogue
-  "CFE_Demetrius_summerFri": "Do you have any animals on your farm?",
+  "CFE_Demetrius_summerFri": "Hast du irgendwelche Tiere auf deinem Bauernhof?",
 
-  "CFE_Demetrius_fallWed": "Let's see... perhaps the nitrogen fixation level is affected by nematode secretions...$u#$b#Oh! Sorry. I was pondering some data and I didn't notice you there.#$e#Do you need anything?",
-  "CFE_Demetrius_fallThuinlawMaru": "I'm still flabbergasted about Maru's secret robot... was it all a dream?",
-  "CFE_Demetrius_fallSun": "During this time of year I divert my attentions to fungi.",
+  "CFE_Demetrius_fallWed": "Mal sehen... vielleicht wird der Stickstofffixierungsgrad durch Nematodenausscheidungen beeinflusst...$u#$b#Oh! Entschuldigung. Ich habe über einige Daten nachgedacht und dich nicht bemerkt.#$e#Kann ich dir helfen?",
+  "CFE_Demetrius_fallThuinlawMaru": "Ich bin immer noch verblüfft über Marus geheimen Roboter... war das alles ein Traum?",
+  "CFE_Demetrius_fallSun": "In dieser Jahreszeit widme ich meine Aufmerksamkeit den Pilzen.",
 
-  "CFE_Demetrius_winterWed": "Talk to my wife if you want to increase the size of your house.",
-  "CFE_Demetrius_winterSat": "Hello.#$e#%Demetrius seems lost in thought.",
+  "CFE_Demetrius_winterWed": "Sprich mit meiner Frau, wenn du dein Haus vergrössern möchtest.",
+  "CFE_Demetrius_winterSat": "Hallo.#$e#%Demetrius scheint in Gedanken versunken zu sein.",
 
-  "CFE_Demetrius_SuninlawSebastian": "It's such a relief that Sebastian's finally moved out. I did always think you were a good match for him.$h",
-  "CFE_Demetrius_SuninlawSebastian.DSV.NonbinarySebastian": "It's such a relief that Sebastian's finally moved out. I did always think you were a good match for them.$h",
+  "CFE_Demetrius_SuninlawSebastian": "Es ist eine große Erleichterung, dass Sebastian endlich ausgezogen ist. Ich habe immer gedacht, dass du gut zu ihm passen würdest.$h",
+  "CFE_Demetrius_SuninlawSebastian.DSV.NonbinarySebastian": "Ich bin so erleichtert, dass Sebastian endlich ausgezogen ist. Ich habe immer gedacht, dass du gut zu ihm passen würdest.$h",
 
   //Dwarf
   //Dwarf Gift Tastes
@@ -1363,8 +1363,8 @@
   "CFE_Emily_Sun6": "I think it's neat how my parents learned to do what makes them happy.#$e#I do miss them, but it isn't really that different from anyone who moves out when they reach adulthood.#$b#For Haley and me, it's just the reverse.",
 
   //generic weekday dialogue
-  "CFE_Emily_winterWedinlawHaley": "I'm so happy that Haley found you. The universe had a plan for her after all!$h",
-  "CFE_Emily_winterWed": "I wish Haley would get a job or at least contribute to cooking and cleaning.$s#$e#I think she's hoping to marry someone rich.$u",
+  "CFE_Emily_winterWedinlawHaley": "Ich bin so froh, dass Haley dich gefunden hat. Das Universum hatte also doch einen Plan für sie!$h",
+  "CFE_Emily_winterWed": "Ich wünschte, Haley würde sich einen Job suchen oder wenigstens beim Kochen und Putzen mithelfen.$s#$e#Ich glaube wirklich, sie hofft, einen reichen Mann zu heiraten.$u",
 
   //Emily's Married Dialogue
   //weather specific dialogue
@@ -1500,14 +1500,14 @@
 
   //Evelyn's Misc Dialogue
   //these lines target files other than the standard characters/dialogue/Evelyn location such as unmarried rainy dialogue
-  "CFE_Evelyn_rainy_1": "When I woke up I heard dripping from somewhere... I think the roof might be leaking.$s#$e#In the old days, George would've scampered right up and fixed it... *sigh*$s",
-  "CFE_Evelyn_rainy_2": "These days affect my energy a lot more than they used to...$s",
-  "CFE_Evelyn_rainy_3": "Looks like I won't need water the flower beds after all.#$e#Too bad... I was looking forward to seeing them today.",
+  "CFE_Evelyn_rainy_1": "Als ich aufwachte, hörte ich von irgendwoher ein Tropfen... Ich glaube, das Dach könnte undicht sein.$s#$e#Früher wäre George sofort herbeigeeilt und hätte es repariert... *seufz*$s",
+  "CFE_Evelyn_rainy_2": "Diese Tage beeinflussen meine Energie viel mehr als früher...$s",
+  "CFE_Evelyn_rainy_3": "Sieht so aus, als bräuchte ich die Blumenbeete doch nicht zu gießen.#$e#Zu schade... ich hatte mich schon darauf gefreut, sie heute zu sehen.",
 
   //Evelyn's Standard Dialogue
   //Special Dialogue
-  "CFE_Evelyn_repeated_1": "So what are young folks into these days?#$e#I suppose I'd have to visit Zuzu City to find out for sure. Pelican Town must not be like a lot of other places.",
-  "CFE_Evelyn_repeated_2": "George watches the news a lot. I worry it'll give him a skewed perspective of the world.#$e#If you want a better perspective, look no further than your own neighbors. That's what I say.",
+  "CFE_Evelyn_repeated_1": "Worauf stehen die jungen Leute heutzutage?#$e#Ich werde wohl Zuzu City besuchen müssen, um das herauszufinden. Pelikanstadt ist sicher nicht wie viele andere Orte.",
+  "CFE_Evelyn_repeated_2": "George sieht oft die Nachrichten. Ich befürchte, dass er dadurch eine verzerrte Sicht auf die Welt bekommt.#$e#Wenn du eine bessere Perspektive haben willst, dann sieh dich bei deinen eigenen Nachbarn um. Das sage ich immer.",
   //repeated_1: "fallTue6" and "Wed8"
   //repeated_2: "winterFri10" and "Fri2"
 
@@ -1556,7 +1556,7 @@
   "CFE_Evelyn_winterThu4.DSV.SamoanEvelyn": "It's a great day for making pagipopo. I always make a big pot of koko to go with it.$h#$e#Have you tried a little baking yet, dear?",
   "CFE_Evelyn_winterThu4.DSV.MexicanEvelyn": "It's a great day for making buñuelos. It's traditional to make them when the weather turns cold like this.$h#$e#Have you tried a little baking yet, dear?",
 
-  "CFE_Evelyn_winterSat10": "I'm reading through 'The Zuzu City Express' again. Have you read it? It's one of my favorites.$h#$e#The movie version is excellent, too.$h",
+  "CFE_Evelyn_winterSat10": "Ich lese gerade wieder 'Der Zuzu City Express'. Hast du es gelesen? Es ist eines meiner Lieblingsbücher.$h#$e#Die Verfilmung ist auch hervorragend.$h",
 
   "CFE_Evelyn_Mon6": "I have good days and bad days with my energy. Today is a good day.#$e#Even if it's a bad day, there's no use moping about it.",
   "CFE_Evelyn_Mon4": "There used to be so many children in this town. My, how they've grown up!",
@@ -1591,9 +1591,9 @@
 
   //George's Misc Dialogue
   //these lines target files other than the standard characters/dialogue/George location such as unmarried rainy dialogue
-  "CFE_George_rainy_1": "It's awful cold, isn't it? What a rotten day.",
-  "CFE_George_rainy_2": "Why do I even bother getting out of bed when the day looks like this?",
-  "CFE_George_rainy_3": "Soaked, are you? Good. Means you've been working hard.#$e#You're not soaked to the bone, though. You could stand to get a few more chores done out there.#$e#Mm-hmph.",
+  "CFE_George_rainy_1": "Es ist furchtbar kalt, nicht wahr? Was für ein scheußlicher Tag.",
+  "CFE_George_rainy_2": "Warum mache ich mir überhaupt die Mühe, aus dem Bett zu steigen, wenn der Tag so aussieht?",
+  "CFE_George_rainy_3": "Bist du durchnässt? Das ist gut. Das heißt, du hast hart gearbeitet.#$e#Du bist aber nicht bis auf die Knochen durchnässt. Du könntest ein paar mehr Aufgaben da draußen erledigen.#$e#Mm-hmph.",
 
   //George's Standard Dialogue
   //Special Dialogue
@@ -1658,8 +1658,8 @@
   "CFE_George_Sun2": "Aren't you cold? They don't make sweaters like they used to.#$e#*Sigh*",
 
   //generic weekday dialogue
-  "CFE_George_Fri": "That farm's been in miserable shape for years.#$e#And you want to restore it? Hmph. Good luck.",
-  "CFE_George_Sun": "What's it take for a little peace and quiet around here?",
+  "CFE_George_Fri": "Diese Farm ist seit Jahren in einem miserablen Zustand.#$e#Und du willst es restaurieren? Hmpf. Viel Glück!",
+  "CFE_George_Sun": "Was muss man tun, um hier ein wenig Ruhe und Frieden zu finden?",
 
   //Gus
   //Gus Gift Tastes
@@ -1756,9 +1756,9 @@
   "CFE_Gus_Sun2": "I think I found the right place for myself here in Stardew Valley. This is the exact kind of place I looked for my whole life.",
 
   //generic weekday dialogue
-  "CFE_Gus_summerThu": "Welcome to the Stardrop Saloon! Can I get you anything?",
-  "CFE_Gus_winterSat": "Sure is chilly out there! Think you could do with a hot cup of coffee?",
-  "CFE_Gus_winterSat.DSV.TurkishGus": "Sure is chilly out there! Think you could do with a hot cup of coffee? How about some salep?",
+  "CFE_Gus_summerThu": "Willkommen im Stardrop Saloon! Kann ich dir etwas bringen?",
+  "CFE_Gus_winterSat": "Es ist wirklich kalt draußen! Ich denke du könntest eine heiße Tasse Kaffee gebrauchen?",
+  "CFE_Gus_winterSat.DSV.TurkishGus": "Es ist wirklich kalt da draußen! Ich denke du könntest eine heiße Tasse Kaffee gebrauchen? Wie wäre es mit etwas Salep?",
 
   "CFE_Gus_Wed": "Glad to see you, buddy.$h^Glad to see you, young lady.$h#$q 012/013/014/015 Wed_old#I've got a cold beer here on the house.[346] What's today's battle? Lay it on me.#$r 012 10 Wed_012#It's kind of lonely here.#$r 013 10 Wed_013#I know nothing about farming.#$r 014 10 Wed_014#I have no money.#$r 015 0 Wed_015#Everything's peachy!",
   "CFE_Gus_Wed_GN": "Glad to see you, {{AdultFamilialNoun}}.$h.$h#$q 012/013/014/015 Wed_old#I've got a cold beer here on the house.[346] What's today's battle? Lay it on me.#$r 012 10 Wed_012#It's kind of lonely here.#$r 013 10 Wed_013#I know nothing about farming.#$r 014 10 Wed_014#I have no money.#$r 015 0 Wed_015#Everything's peachy!",
@@ -1773,36 +1773,36 @@
 
   //Haley
   //Haley Gift Tastes
-  "CFE_Haley_GoldPumpkin": "You found this in the haunted maze? My hero!$l",
-  "CFE_Haley_Pearl": "It's beautiful!$8#$b#And... you thought of me when you found it?$l",
-  "CFE_Haley_RabbitsFoot": "*gasp* It's perfect! All the top models in Zuzu City have these on their purses and handbags these days!$h",
-  "CFE_Haley_FruitSalad": "*gasp* Can I-$8#$b#...I can? I was just craving a fruit salad! How'd you know?$h",
-  "CFE_Haley_PinkCake": "It's just for me? This is my favorite kind of cake!$h#$b#You are such a gentleman.^You are such a sweetie.",
-  "CFE_Haley_PinkCake_GN": "It's just for me? This is my favorite kind of cake!$h#$b#You are such a sweetie.",
+  "CFE_Haley_GoldPumpkin": "Das hast du im Geisterlabyrinth gefunden? Mein Held!$l",
+  "CFE_Haley_Pearl": "Es ist wunderschön!$8#$b#Und... du hast an mich gedacht, als du es gefunden hast?$l",
+  "CFE_Haley_RabbitsFoot": "*keuch* Das ist perfekt! Alle Topmodels in Zuzu City haben diese auf ihren Handtaschen und Geldbörsen!$h",
+  "CFE_Haley_FruitSalad": "*keuch* Kann ich-$8#$b#...Ich kann? Ich hatte gerade Lust auf einen Obstsalat! Woher wusstest du das?$h",
+  "CFE_Haley_PinkCake": "Das ist nur für mich? Das ist meine Lieblingstorte!$h#$b#Du bist ein echter Gentleman.^Du bist so ein süßer Kerl.",
+  "CFE_Haley_PinkCake_GN": "Das ist nur für mich? Das ist meine Lieblingstorte!$h#$b#Du bist so ein süßer.",
 
   //Haley's Misc Dialogue
   //these lines target files other than the standard characters/dialogue/Haley location such as unmarried rainy dialogue
-  "CFE_Haley_rainy_1": "I spent all morning doing my hair... now the rain could mess it up.$s#$e#*sigh* ... Life is hard sometimes.",
-  "CFE_Haley_rainy_2": "Yikes. No offense, but you are soaked.",
-  "CFE_Haley_rainy_3": "*sigh* To think... there are people on sunny beaches in other parts of the world right now.$s",
+  "CFE_Haley_rainy_1": "Ich habe den ganzen Morgen damit verbracht, mein Haar zu frisieren... jetzt könnte der Regen es versauen.$s#$e#*seufz* ... das Leben ist manchmal hart.",
+  "CFE_Haley_rainy_2": "Pfui. Nichts für ungut, aber du bist durchnässt.",
+  "CFE_Haley_rainy_3": "*seufz* Wenn man bedenkt... dass in anderen Teilen der Welt gerade Menschen an sonnigen Stränden liegen.$s",
 
   //Haley's Standard Dialogue
   //Special Dialogue
-  "CFE_Haley_repeated_1": "First my parents leave, and now Emily, too. I just...$s#$e#It's a lot, you know?$s#$e#I'm sorry. I know it's selfish of me.$s",
+  "CFE_Haley_repeated_1": "Erst verlassen mich meine Eltern, und jetzt auch noch Emily. Ich habe einfach...$s#$e#Es ist ziemlich viel, weißt du? Es tut mir leid. Ich weiß, es ist egoistisch von mir.$s",
   "CFE_Haley_repeated_2": "Oh... hey.",
   //summer_Sun6_inlaw_Emily, fall_Sun6_inlaw_Emily
   //summer_Sun_inlaw_Emily, fall_Sun_inlaw_Emily, winter_Sun_inlaw_Emily
 
   //date specific dialogue
-  "CFE_Haley_spring1y2": "I think this year, I need to keep working on my photography.#$e#Any new year's resolutions for you?",
-  "CFE_Haley_summer12": "Did you see Emily yesterday at the luau? So ridiculous.$11",
-  "CFE_Haley_fall1": "It's fall already?$s",
-  "CFE_Haley_winter28": "Finally. I was thinking this cold weather would never end.#$e#Just have to wait for all this slush to finish melting.",
+  "CFE_Haley_spring1y2": "Ich denke, dieses Jahr muss ich weiter an meiner Fotografie arbeiten.#$e#Hast du irgendwelche Vorsätze für das neue Jahr?",
+  "CFE_Haley_summer12": "Hast du Emily gestern auf dem Luau gesehen? So lächerlich.$11",
+  "CFE_Haley_fall1": "Es ist schon Herbst?$s",
+  "CFE_Haley_winter28": "Endlich. Ich dachte schon, dieses kalte Wetter würde nie enden.#$e#Ich muss nur warten, bis der ganze Schnee geschmolzen ist.",
 
   //heart specific dialogue
-  "CFE_Haley_summerMon4": "I'm going to get such a nice tan this summer.",
-  "CFE_Haley_summerMon4.DSV.ModdedHaley": "I'm going to spend so much time at the beach this summer.",
-  "CFE_Haley_summerMon2": "Pretty much everyone who talks to Emily says she's weird.#$e#Some of the clothes she makes are nice, but why would you wear them when there are a ton of perfectly good brands out there?",
+  "CFE_Haley_summerMon4": "Ich werde diesen Sommer so schön braun werden.",
+  "CFE_Haley_summerMon4.DSV.ModdedHaley": "Ich werde diesen Sommer sehr viel Zeit am Strand verbringen.",
+  "CFE_Haley_summerMon2": "So gut wie jeder, der mit Emily spricht, sagt, sie sei seltsam.#$e#Einige der Kleider, die sie herstellt, sind schön, aber warum sollte man sie tragen, wenn es unzählige sehr gute Marken gibt?",
   "CFE_Haley_summerTue8": "I guess living in the country isn't so bad.#$e#If I lived in the city I might start to miss all the trees.#$e#@, I think I've been hanging out with you too much.$h",
   "CFE_Haley_summerTue4": "$p 47#Hey I found this new tool to open jars with. So you won't need to help me anymore.$h|There's not a cloud in the sky today.$h",
   "CFE_Haley_summerTue2": "Do you wear those clothes every day?",
@@ -1987,15 +1987,15 @@
   "CFE_Haley_Married_TwoKids_7": "With %kid2, things have been a lot easier to figure out. I've got a lot of routines in place already.",
   "CFE_Haley_Married_TwoKids_8": "I've got a busy day planned with the kids! We're going to have a lot of fun!$h",
 
-  "CFE_Haley_Married_patio_1": "Say 'goat cheese'!",
-  "CFE_Haley_Married_patio_2": "I'm documenting our time here on this farm. Today's another memory in the making!",
-  "CFE_Haley_Married_patio_3": "I'm getting some wide shots. How about one with you in the distance, working in the field?",
+  "CFE_Haley_Married_patio_1": "Sag 'Ziegenkäse'!",
+  "CFE_Haley_Married_patio_2": "Ich dokumentiere unsere Zeit hier auf dem Bauernhof. Heute ist eine weitere Erinnerung im Entstehen!",
+  "CFE_Haley_Married_patio_3": "Ich mache ein paar Weitwinkelaufnahmen. Wie wäre es mit einer, auf der du in der Ferne zu sehen bist und auf dem Feld arbeitest?",
 
-  "CFE_Haley_Married_spouseRoom_1": "Go ahead and start your day, honey. I'm just putting on my make-up.",
-  "CFE_Haley_Married_spouseRoom_2": "Have any plans for the day?",
-  "CFE_Haley_Married_spouseRoom_3": "Hm-hm. < You look cute today.$11",
-  "CFE_Haley_Married_spouseRoom_4": "I've got a few steps I'm hoping to complete on my latest photo album.#$e#Really, it's more like a scrapbook. But the photos are the main attraction.",
-  "CFE_Haley_Married_spouseRoom_5": "Admit it: My dresser is the most organized dresser you've ever seen.#$e#It's way more organized than yours. I dare you to peek inside.$11#$b#Unless you can't cuz you're too scared.$h",
+  "CFE_Haley_Married_spouseRoom_1": "Beginne deinen Tag, Schatz. Ich lege nur noch mein Make-up auf.",
+  "CFE_Haley_Married_spouseRoom_2": "Hast du schon Pläne für den Tag?",
+  "CFE_Haley_Married_spouseRoom_3": "Hm-hm. < Du siehst heute süß aus.$11",
+  "CFE_Haley_Married_spouseRoom_4": "Ich hoffe, dass ich mein letztes Fotoalbum in ein paar Schritten fertigstellen kann.#$e#Eigentlich ist es eher ein Sammelalbum. Aber die Fotos sind die Hauptattraktion.",
+  "CFE_Haley_Married_spouseRoom_5": "Gib es zu: Meine Kommode ist die am besten organisierte Kommode, die du je gesehen hast.#$e#Er ist viel besser organisiert als deiner. Ich rate dir, einen Blick hineinzuwerfen.$11#$b#Es sei denn, du kannst nicht, weil du zu viel Angst hast.$h",
 
   "CFE_Haley_Married_Outdoor_1": "I always feel best when I'm outside, breathing fresh air.#$e#You know what I mean, right? Like, look at you. You're always outside.",
   "CFE_Haley_Married_Outdoor_2": "*sniff* Ahhh... Feels good to get out into the fresh air.#$e#Don't get me wrong, your grandpa's old cottage is very nice! But nothing beats this beautiful landscape.",
@@ -2047,9 +2047,9 @@
 
   //Harvey's Misc Dialogue
   //these lines target files other than the standard characters/dialogue/Harvey location such as unmarried rainy dialogue
-  "CFE_Harvey_rainy_1": "Hi @! Er... Read anything interesting in the library lately?#$e#Heh. Well, um... I'll see you around then?",
-  "CFE_Harvey_rainy_2": "Days like these make me hungry for a hot meal. How about you?",
-  "CFE_Harvey_rainy_3": "That gray sky is so serene to look at, isn't it?#$e#Heh, I can only look for a moment before the raindrops clutter up my glasses.",
+  "CFE_Harvey_rainy_1": "Hi @! Äh... hast du in letzter Zeit etwas Interessantes in der Bibliothek gelesen?#$e#Heh. Nun, ähm... sehen wir uns dann?",
+  "CFE_Harvey_rainy_2": "An Tagen wie diesen habe ich Appetit auf eine warme Mahlzeit. Wie sieht es bei dir aus?",
+  "CFE_Harvey_rainy_3": "Dieser graue Himmel ist so friedlich anzusehen, nicht wahr?#$e#Heh, ich kann nur einen Moment lang hinsehen, bevor die Regentropfen meine Brille verschmutzen.",
 
   //Harvey's Standard Dialogue
   //Special Dialogue

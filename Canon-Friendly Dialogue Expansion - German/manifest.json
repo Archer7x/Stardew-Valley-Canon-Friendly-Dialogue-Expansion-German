@@ -1,8 +1,8 @@
 {
 	"Name": "Canon-Friendly Dialogue Expansion - German",
     "Author": "Archer1411",
-	"Version": "0.0.2",
-    "Description": "This is the German translation. You will also need the original mod: Canon-Friendly Dialogue Expansion! (Work in progress!)",
+	"Version": "0.0.3",
+    "Description": "(Work in progress!) This is the German translation. You will also need the original mod: Canon-Friendly Dialogue Expansion!",
     "UniqueID": "archer1411.svcanonfriendlyexpansiongerman",
 	"MinimumApiVersion": "4.0.8",
 	"ContentPackFor": {
@@ -10,7 +10,7 @@
 		"MinimumVersion": "2.3.1"
 	},
 	"UpdateKeys": [
-    	"Nexus:28622",
+    	"Nexus:28630",
     	"GitHub:Archer1411/Stardew-Valley-Canon-Friendly-Dialogue-Expansion-German"
 	]
 }
