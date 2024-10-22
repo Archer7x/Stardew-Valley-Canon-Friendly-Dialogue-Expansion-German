@@ -2125,11 +2125,11 @@
   "CFE_Harvey_Sun2": "Hmm... I'm struggling to make ends meet. I don't have enough patients.#$e#I guess I should try to get patients from the neighboring towns...",
 
   //generic weekday dialogue
-  "CFE_Harvey_fallSat": "Have you been going into the mines, @?#$e#It's a dangerous place. I recommend against it.",
-  "CFE_Harvey_fallFri": "When you eat certain foods you'll perform better.#$e#Eating a 'Farmer's Lunch' will give you the nutrition you need to water and harvest crops better!",
+  "CFE_Harvey_fallSat": "Bist du in den Minen gewesen, @?#$e#Es ist ein gefährlicher Ort. Ich empfehle es nicht.",
+  "CFE_Harvey_fallFri": "Wenn du bestimmte Lebensmittel isst, bist du leistungsfähiger.#$e#Mit einem „Farmer's Lunch“ bekommst du die Nährstoffe, die du brauchst, um die Pflanzen besser bewässern und ernten zu können!",
 
-  "CFE_Harvey_Sat": "Today's my day off, but I figure I shouldn't stay cooped up all day.",
-  "CFE_Harvey_Sun": "When I'm at the clinic, feel free to come around behind the counter if you want to talk about anything non-business related.#$e#That's the benefit of working in a small town.",
+  "CFE_Harvey_Sat": "Heute ist mein freier Tag, aber ich denke, ich sollte nicht den ganzen Tag im Haus bleiben.",
+  "CFE_Harvey_Sun": "Wenn ich in der Klinik bin, kannst du gerne hinter den Tresen kommen, um über irgendetwas anderes als das Geschäftliche zu reden.#$e#Das ist der Vorteil, wenn man in einer Kleinstadt arbeitet.",
 
   //Harvey's Married Dialogue
   //weather specific dialogue
@@ -2332,7 +2332,7 @@
   "CFE_Jas_Sun4": "What's up in the mountains anyway?#$b#I've never even been.$u",
 
   //generic weekday dialogue
-  "CFE_Jas_TueinlawShane": "I miss Shane. Is he going to move back in?$s",
+  "CFE_Jas_TueinlawShane": "Ich vermisse Shane. Wird er wieder einziehen?$s",
 
   //Jodi
   //Jodi Gift Tastes
@@ -2446,14 +2446,14 @@
   "CFE_Jodi_Sun2": "I'm taking a break from house chores today.$h#$e#If I don't spend any time outside, I'll go crazy!#$e#Plus I don't want my legs to turn soft.",
 
   //generic weekday dialogue
-  "CFE_Jodi_summerFri": "You must get your daily exercise pretty easily with your farmwork, huh?$h#$e#I only work out once per week. I always spend the time pushing to make up for the rest of the week.",
-  "CFE_Jodi_fallFri": "Caroline and I are good friends. I tell her everything.",
-  "CFE_Jodi_Tue": "Hello.#$e#Do you need something? I'm a little busy.",
-  "CFE_Jodi_Suny1": "Hi, @.#$q 116/117 Sun_old#Sorry to ask, but do you pray?#$r 116 10 Sun_116#Yes#$r 117 0 Sun_117#No",
-  "CFE_Jodi_Sun_old": "$p 116#Thank you for your prayers for my husband. It means a great deal to me.|My husband is overseas in the war. Have I mentioned that?",
-  "CFE_Jodi_Sun_116": "That's great. If you would, could you please pray for my husband, Kent? Just for his safe return from the war.#$b#Thanks.",
-  "CFE_Jodi_Sun_117": "I see. Sorry to bother you.",
-  "CFE_Jodi_Suny2": "I can't believe my husband is finally back!$h#$e#We should hang out more.",
+  "CFE_Jodi_summerFri": "Mit deiner Arbeit auf dem Bauernhof hast du sicher leichtes Spiel, um dich täglich zu bewegen, oder?$h#$e#Ich trainiere nur einmal pro Woche. In dieser Zeit versuche ich immer, den Rest der Woche aufzuholen.",
+  "CFE_Jodi_fallFri": "Caroline und ich sind gute Freunde. Ich erzähle ihr alles.",
+  "CFE_Jodi_Tue": "Hallo.#$e#Brauchst du etwas? Ich bin ein bisschen beschäftigt.",
+  "CFE_Jodi_Suny1": "Hi, @.#$q 116/117 Sun_old#Entschuldige die Frage, aber betest du?#$r 116 10 Sun_116#Ja#$r 117 0 Sun_117#Nein",
+  "CFE_Jodi_Sun_old": "$p 116#Ich danke dir für deine Gebete für meinen Mann. Es bedeutet mir sehr viel.|Mein Mann ist im Krieg in Übersee. Habe ich das schon erwähnt?",
+  "CFE_Jodi_Sun_116": "Das ist großartig. Könntest du bitte für meinen Mann Kent beten? Nur für seine sichere Rückkehr aus dem Krieg.#$b#Danke.",
+  "CFE_Jodi_Sun_117": "Aha, ich verstehe. Entschuldige, dass ich dich störe.",
+  "CFE_Jodi_Suny2": "Ich kann nicht glauben, dass mein Mann endlich zurück ist!$h#$e#Wir sollten mehr Zeit miteinander verbringen.",
 
   //Kent
   //Kent Gift Tastes
@@ -2551,8 +2551,8 @@
   "CFE_Kent_Sun2": "Jodi's cooking is nice. I forgot how good it was.",
 
   //generic weekday dialogue
-  "CFE_Kent_summerThu": "This town is so quiet. I keep... expecting something.$s",
-  "CFE_Kent_MoninlawSam": "Seeing Sam married came as quite a surprise.#$e#Welcome to the family.",
+  "CFE_Kent_summerThu": "Diese Stadt ist so ruhig. Ich... erwarte immer etwas.$s",
+  "CFE_Kent_MoninlawSam": "Sam verheiratet zu sehen, war eine ziemliche Überraschung.#$e#Willkommen in der Familie.",
 
   //Krobus
   //Krobus Gift Tastes
@@ -2853,13 +2853,13 @@
   "CFE_Leah_Sun2": "Stop by my home sometime. I'll show you my latest projects.",
 
   //generic weekday dialogue
-  "CFE_Leah_summerThu": "I visit the beach a lot during the summer.#$e#The sound of the ocean is so beautiful, isn't it?",
-  "CFE_Leah_fallTue": "So, what do you enjoy most about living on a farm?",
-  "CFE_Leah_fallThu": "Hey. How's the farm coming along?#$e#This season, there must be so many different seeds to choose from.",
-  "CFE_Leah_fallSat": "If you hear any banging from inside my hut, it's probably just me working on one of my sculptures.",
-  "CFE_Leah_winterTue": "Don't you think the saloon has just the right atmosphere for winter time? It's so cozy.",
-  "CFE_Leah_winterThu": "I love to decorate for the different seasons.",
-  "CFE_Leah_Thu": "I'm interested to see what you do with your farm, though there's also a natural beauty to the rocks and trees that have moved in.",
+  "CFE_Leah_summerThu": "Ich gehe im Sommer oft an den Strand.#$e#Das Rauschen des Meeres ist so schön, nicht wahr?",
+  "CFE_Leah_fallTue": "Was gefällt dir am meisten am Leben auf einer Farm?",
+  "CFE_Leah_fallThu": "Hey, wie läuft's mit der Farm?#$e#In dieser Jahreszeit muss es so viele verschiedene Samen geben, aus denen man wählen kann.",
+  "CFE_Leah_fallSat": "Wenn du ein Klopfen aus meiner Hütte hörst, dann arbeite ich wahrscheinlich gerade an einer meiner Skulpturen.",
+  "CFE_Leah_winterTue": "Findest du nicht auch, dass der Saloon genau die richtige Stimmung für die Winterzeit hat? Es ist so gemütlich.",
+  "CFE_Leah_winterThu": "Ich liebe es, für die verschiedenen Jahreszeiten zu dekorieren.",
+  "CFE_Leah_Thu": "Ich bin gespannt, was du mit deiner Farm anstellst, auch wenn die Felsen und Bäume, die sich dort angesiedelt haben, eine natürliche Schönheit haben.",
 
   //Leah's Married Dialogue
   //weather specific dialogue
@@ -3012,12 +3012,12 @@
   "CFE_Leo_Sun2": "I've seen an old woman on the island's other side. Have you?$3#$e#...I'm shy to her. And scared.$s#$e#I don't think she wants to be friends with birds.$s#$e#But you do.",
 
   //generic weekday dialogue
-  "CFE_Leo_summerMon": "Hm? You ask about my... birthday?$3#$b#Um... what season is this? I don't have a... what is it? A calendar.$3#$e#Oh, this is summer now? It's... summer 26! The parrots told me I hatched on that day.",
+  "CFE_Leo_summerMon": "Hm? Du fragst nach meinem... Geburtstag?$3#$b#Ähm... welche Jahreszeit ist das? Ich habe keinen... was ist es? Einen Kalender.$3#$e#Oh, ist es jetzt schon Sommer? Es ist... der 26. Sommer! Die Papageien haben mir gesagt, dass ich an diesem Tag geschlüpft bin.",
 
   //LeoMainland
   //Please Note that all of these keys only use _Leo_ for the sake of simplicity!
   //LeoMainland Gift Tastes
-  "CFE_Leo_ParrotEgg": "This is a precious egg... A baby! I'm glad you brought it to me, I'll keep it safe.",
+  "CFE_Leo_ParrotEgg": "Dies ist ein kostbares Ei... Ein Baby! Ich bin froh, dass du es zu mir gebracht hast. Ich werde es sicher aufbewahren.",
 
   //LeoMainland's Misc Dialogue
   //these lines target files other than the standard characters/dialogue/LeoMainland location such as unmarried rainy dialogue
@@ -3053,9 +3053,9 @@
   "CFE_Leo_Sun8": "I caught a fish off the side of Willy's boat early this morning.$h#$e#It was just a little one. I threw him back to his home.",
 
   //generic weekday dialogue
-  "CFE_Leo_fallTue": "I took a bath at the hot spring! It feels so good to get all clean.$h",
-  "CFE_Leo_fallWed": "The leaves! They're so beautiful!#$e#Why don't the trees change color on Ginger Island?",
-  "CFE_Leo_winterWed": "So... c-c-cold.$3#$e#Uncle Linus says I'll get used to it.$3",
+  "CFE_Leo_fallTue": "Ich habe ein Bad in der heißen Quelle genommen! Es fühlt sich so gut an, wieder ganz sauber zu sein.$h",
+  "CFE_Leo_fallWed": "Die Blätter! Sie sind so schön!#$e#Warum verfärben sich die Bäume auf der Ingwerinsel nicht?",
+  "CFE_Leo_winterWed": "So... k-k-kalt.$3#$e#Onkel Linus sagt, ich werde mich daran gewöhnen.$3",
 
   //Lewis
   //Lewis Gift Tastes
@@ -3684,8 +3684,8 @@
   "CFE_Pam_Sat2": "Havin' a local farm is good for our town.",
 
   //generic weekday dialogue
-  "CFE_Pam_winterMon": "It's so dry in winter. My skin feels like old parchment.",
-  "CFE_Pam_Fri": "Hi, stranger.",
+  "CFE_Pam_winterMon": "Im Winter ist es so trocken. Meine Haut fühlt sich an wie altes Pergament.",
+  "CFE_Pam_Fri": "Hallo, Fremder.",
 
   //Penny
   //Penny Gift Tastes

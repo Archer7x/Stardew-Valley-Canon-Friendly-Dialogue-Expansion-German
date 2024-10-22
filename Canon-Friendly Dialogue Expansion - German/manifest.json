@@ -10,7 +10,13 @@
 		"MinimumVersion": "2.3.1"
 	},
 	"UpdateKeys": [
-    	"Nexus:28630",
-    	"GitHub:Archer1411/Stardew-Valley-Canon-Friendly-Dialogue-Expansion-German"
-	]
+		"Nexus:28630",
+		"GitHub:Archer1411/Stardew-Valley-Canon-Friendly-Dialogue-Expansion-German"
+	],
+	"Dependencies": [
+	{
+		"UniqueID": "gizzymo.canonfriendlyexpansion",
+		"IsRequired": true
+	}
+]
 }
